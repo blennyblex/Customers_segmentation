@@ -1,14 +1,14 @@
 # Customers_segmentation
 
-# 🧩 Cohort Analysis of Repeated Buyers & Retention Patterns
+# Cohort Analysis of Repeated Buyers & Retention Patterns
 
-This project performs an in-depth **cohort analysis** on customer purchasing behavior, aiming to identify retention patterns and revenue contributions of various buyer groups. The insights derived can guide personalized marketing, customer segmentation, and strategic business decisions.
+This project conducts an in-depth **cohort analysis** of customer purchasing behaviour, aiming to identify retention patterns and revenue contributions from various buyer groups. The insights derived can guide personalised marketing, customer segmentation, and strategic business decisions.
 
 ---
 
-## 📊 Objective
+## Objective
 
-To analyze customer behavior over time and categorize customers into cohorts based on their purchase frequency and behavior, such as:
+To analyse customer behaviour over time and categorise customers into cohorts based on their purchase frequency and behaviour, such as:
 
 - One-time buyers
 - Weekly buyers
@@ -20,7 +20,7 @@ To analyze customer behavior over time and categorize customers into cohorts bas
 
 ---
 
-## 🔍 Key Analyses Performed
+## Key Analyses Performed
 
 ### 1. **Customer Segmentation**
 Customers are grouped into cohorts based on their purchase frequency. Each group represents a behavioral pattern useful for marketing and retention strategies.
@@ -29,7 +29,7 @@ Customers are grouped into cohorts based on their purchase frequency. Each group
 Calculate the **percentage distribution** of customers across all defined cohorts relative to the total customer base.
 
 ### 3. **Product Preferences by Group**
-Analyze the most commonly purchased products within each cohort group to identify group-specific preferences.
+Analyse the most commonly purchased products within each cohort group to identify group-specific preferences.
 
 ### 4. **Average Order Value (AOV)**
 Compute the **average order value per group** to understand the spending pattern of each cohort.
@@ -38,7 +38,7 @@ Compute the **average order value per group** to understand the spending pattern
 Determine the **revenue contribution percentage** of each customer group across different time periods:
 - Monthly
 - Quarterly
-- Semi-annually (six-month)
+- Semi-annually (six months)
 - Annually (yearly)
 
 ### 6. **Profit Margin Analysis**
@@ -60,7 +60,7 @@ Perform **temporal cohort analysis** for key frequency groups (e.g., weekly, bi-
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python (Pandas, NumPy, Matplotlib, plotly.graph_objects)**
 - **Jupyter Notebook**
@@ -69,7 +69,7 @@ Perform **temporal cohort analysis** for key frequency groups (e.g., weekly, bi-
 ---
 
 
-## 💡 Future Improvements
+## Future Improvements
 
 - Integrate customer demographic data to enrich cohort profiling.
 - Apply machine learning for customer lifetime value (CLV) prediction.
